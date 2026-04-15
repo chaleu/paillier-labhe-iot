@@ -186,14 +186,14 @@ This dataset requires k>=35; Paillier has no message-space constraint.
 ## Citation
 
 ```bibtex
-@inproceedings{wansi2025paillier,
+@inproceedings{wansi2026paillier,
   title     = {Malicious-Secure Paillier Labeled Homomorphic Encryption
                for Industrial IoT: Degree-2 Statistics, Node Compromise
                Defence, and Differential Privacy},
   author    = {Wansi Hilary, Chaleu and Messai, Mohamed-Lamine
                and Emmanuel, Fouotsa},
   booktitle = {[Conference name and year]},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
@@ -201,5 +201,5 @@ This dataset requires k>=35; Paillier has no message-space constraint.
 
 ## Licence
 
-MIT Licence. Copyright (c) 2025 Chaleu Wansi Hilary.
+MIT Licence. Copyright (c) 2026 Chaleu Wansi Hilary.
 See the header of each source file for the full licence text.
