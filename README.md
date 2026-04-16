@@ -190,8 +190,8 @@ This dataset requires k>=35; Paillier has no message-space constraint.
   title     = {Malicious-Secure Paillier Labeled Homomorphic Encryption
                for Industrial IoT: Degree-2 Statistics, Node Compromise
                Defence, and Differential Privacy},
-  author    = {Wansi Hilary,Mohamed-Lamine
-               and Emmanuel, Fouotsa},
+  author    = {Wansi Hilary, Mohamed-Lamine
+               and Emmanuel Fouotsa},
   booktitle = {[Conference name and year]},
   year      = {2026}
 }
